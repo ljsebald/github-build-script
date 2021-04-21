@@ -8,6 +8,7 @@ repositories to consider for building. Each JSON element must have the
 following elements:
 
 string name    - Name of the repository
+
 string ssh_url - SSH URL of the remote declaration
 
 No other elements are necessary, however if other elements are present,
